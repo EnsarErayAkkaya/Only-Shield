@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16403bdf9e1debd4aa3636cfa9d7a1fd, type: 3}
+  m_Name: Yelllow
+  m_EditorClassIdentifier: 
+  Down: {fileID: -4602884297368296373, guid: 8f4390d18fbbc3d45b9dddae77b74769, type: 3}
+  Down_Left: {fileID: -5013787901110068309, guid: 8f4390d18fbbc3d45b9dddae77b74769, type: 3}
+  Left: {fileID: 2407248250206187457, guid: 8f4390d18fbbc3d45b9dddae77b74769, type: 3}
+  Up_Left: {fileID: 5951999857838895531, guid: 8f4390d18fbbc3d45b9dddae77b74769, type: 3}
+  Up: {fileID: -6268092559968821092, guid: 8f4390d18fbbc3d45b9dddae77b74769, type: 3}
+  Up_Right: {fileID: 3333968483082541570, guid: 8f4390d18fbbc3d45b9dddae77b74769, type: 3}
+  Right: {fileID: 8921257024282185406, guid: 8f4390d18fbbc3d45b9dddae77b74769, type: 3}
+  Down_Right: {fileID: 8250404105589406462, guid: 8f4390d18fbbc3d45b9dddae77b74769, type: 3}
+  Defend_Down: {fileID: 749080533798022906, guid: a3ac0a139d59a9f4ca37393483b79562, type: 3}
+  Defend_Down_Left: {fileID: 2721388501349334472, guid: a3ac0a139d59a9f4ca37393483b79562, type: 3}
+  Defend_Left: {fileID: -4745455800414793622, guid: a3ac0a139d59a9f4ca37393483b79562, type: 3}
+  Defend_Up_Left: {fileID: 8479552228871945180, guid: a3ac0a139d59a9f4ca37393483b79562, type: 3}
+  Defend_Up: {fileID: 3270096599196451851, guid: a3ac0a139d59a9f4ca37393483b79562, type: 3}
+  Defend_Up_Right: {fileID: 8374468616783869093, guid: a3ac0a139d59a9f4ca37393483b79562, type: 3}
+  Defend_Right: {fileID: -3390915271653211995, guid: a3ac0a139d59a9f4ca37393483b79562, type: 3}
+  Defend_Down_Right: {fileID: 1517084668942259969, guid: a3ac0a139d59a9f4ca37393483b79562, type: 3}
+  dashDuration: 0.1
+  dashSpeed: 10
+  cooldown: 5
+  lastUsed: -5

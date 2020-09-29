@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70215883fe29f843990f640ede2cbc2, type: 3}
+  m_Name: Red
+  m_EditorClassIdentifier: 
+  Down: {fileID: 1414125399931500858, guid: 997df86dfe8954847a360b9def4b91e7, type: 3}
+  Down_Left: {fileID: -6604868836938404661, guid: 997df86dfe8954847a360b9def4b91e7, type: 3}
+  Left: {fileID: -6578013345119141044, guid: 997df86dfe8954847a360b9def4b91e7, type: 3}
+  Up_Left: {fileID: 7330482045969259045, guid: 997df86dfe8954847a360b9def4b91e7, type: 3}
+  Up: {fileID: -4693434926543569580, guid: 997df86dfe8954847a360b9def4b91e7, type: 3}
+  Up_Right: {fileID: -8678073840422047900, guid: 997df86dfe8954847a360b9def4b91e7, type: 3}
+  Right: {fileID: 1288195025365493600, guid: 997df86dfe8954847a360b9def4b91e7, type: 3}
+  Down_Right: {fileID: 6219242877773837649, guid: 997df86dfe8954847a360b9def4b91e7, type: 3}
+  Defend_Down: {fileID: 7176574554526933549, guid: e1caca85cd4a3e542a5196191c0a56b4, type: 3}
+  Defend_Down_Left: {fileID: 6698393766928915065, guid: e1caca85cd4a3e542a5196191c0a56b4, type: 3}
+  Defend_Left: {fileID: -4360551409663623510, guid: e1caca85cd4a3e542a5196191c0a56b4, type: 3}
+  Defend_Up_Left: {fileID: -3463413215094206141, guid: e1caca85cd4a3e542a5196191c0a56b4, type: 3}
+  Defend_Up: {fileID: 3713280543762130104, guid: e1caca85cd4a3e542a5196191c0a56b4, type: 3}
+  Defend_Up_Right: {fileID: -8137216452710545120, guid: e1caca85cd4a3e542a5196191c0a56b4, type: 3}
+  Defend_Right: {fileID: 1349639033764783394, guid: e1caca85cd4a3e542a5196191c0a56b4, type: 3}
+  Defend_Down_Right: {fileID: -3951515976504059682, guid: e1caca85cd4a3e542a5196191c0a56b4, type: 3}
+  abilityPrefab: {fileID: 7995549555461274057, guid: 1ee99a28fbc35854f82387b439ccd18d, type: 3}
+  cooldown: 9
+  lastUsed: -9
